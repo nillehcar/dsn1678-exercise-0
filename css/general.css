@@ -1,3 +1,45 @@
 body {
 	font-family: Helvetica, Arial, 'sans-serif';
+	margin: 10%;
+}
+
+img {
+	width: 100%;
+}
+
+blockquote {
+	color: #C4C4C4;
+	border-left: 5px solid #C4C4C4;
+	padding: 0 20px;
+	margin: 1.5em 10px;
+}
+
+hr {
+	border-top: 1px solid #C4C4C4;
+}
+
+
+ul,ol {
+	padding: 0;
+}
+
+li {
+	list-style-type: none;
+	margin: .25em 0;
+}
+
+dl {
+	overflow: hidden;
+}
+
+dt {
+	float: left;
+	clear: left;
+	width: 8em;
+}
+
+dd {
+	float: left;
+	margin: .25em 0;
+	padding: 0;
 }
